@@ -13,6 +13,8 @@ Have basics skills in HTML, CSS and JS<br>
 My goal is: to become a middle frontend developer within the year<br>
 Ready to learn, train and achieve, just need to find time for all of that<br>
 Happy father of beautiful child!)<br><br>
-
+* Level of English:<br><br>
+Range between B1 Intermediate and B2 Upper Intermediate<br>
+Participated in Work and Travel USA in 2013
 
   
